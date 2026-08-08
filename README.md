@@ -40,15 +40,11 @@ Full Stack Developer • MERN Stack • AI/ML Enthusiast • AWS Learner
 
 - 🚀 Building scalable MERN applications
 
-- 🔭 Working on **MedAI Scan**
-
 - 🏆 Solved **250+ DSA Problems**
 
 - 📚 Love Competitive Programming
 
 - 💬 Ask me about MERN Stack & AI
-
-- 🎯 Dream Company: Google | Microsoft | Amazon
 
 - ⚡ Fun Fact: Coffee + Coding = Productivity ☕
 
