@@ -530,7 +530,6 @@ React • Express • MongoDB • JWT • Node.js
 
 - ✅ Contribute to Open Source
 
-- ✅ Crack Product-Based Company
 
 
 
