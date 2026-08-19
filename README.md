@@ -11,7 +11,6 @@ Full Stack Developer • MERN Stack • AI/ML Enthusiast • Docker • AWS Lear
 </h3>
 
 
-
 <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;250%2B+LeetCode+Problems+Solved;Open+Source+Contributor;Always+Learning+New+Technologies" />
