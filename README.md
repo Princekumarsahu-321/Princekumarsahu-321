@@ -1,507 +1,338 @@
-
-
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
 
-
-
 <h3 align="center">
-
-Full Stack Developer • MERN Stack • AI/ML Enthusiast • Docker • AWS Learner
-
+Full Stack Developer • MERN Stack • AI/ML Enthusiast • Cloud & DevOps Learner
 </h3>
 
-
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;250%2B+LeetCode+Problems+Solved;Open+Source+Contributor;Always+Learning+New+Technologies" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Full+Stack+Developer;AI+%26+ML+Enthusiast;250%2B+DSA+Problems+Solved;Building+Real-World+Projects;Always+Learning+%26+Building" />
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Princekumarsahu-321&label=Profile%20Views&color=00d4ff&style=for-the-badge" />
+</p>
 
 ---
-
-
 
 # 💫 About Me
 
+🎓 B.Tech Computer Science Engineering student at **Jagannath University, Jaipur**
 
+💻 Passionate about building **full-stack web applications**
 
-- 🎓 B.Tech CSE Student at Jagannath University, Jaipur
+⚡ Focused on **MERN Stack development**
 
-- 💻 Passionate Full Stack Developer
+🤖 Exploring **Artificial Intelligence, Machine Learning & Generative AI**
 
-- 🤖 Exploring Artificial Intelligence & Machine Learning
+☁️ Learning **AWS, Docker & Cloud Deployment**
 
-- ☁️ Learning AWS Cloud & Docker
+🧠 Currently improving my knowledge of **System Design & scalable architectures**
 
-- 🌱 Currently learning System Design
+🚀 Building practical projects that combine **Web Development + AI**
 
-- 🚀 Building scalable MERN applications
+🏆 Solved **250+ DSA Problems**
 
-- 🏆 Solved **250+ DSA Problems**
+📚 Interested in **Competitive Programming & Problem Solving**
 
-- 📚 Love Competitive Programming
-
-- 💬 Ask me about MERN Stack & AI
-
-- ⚡ Fun Fact: Coffee + Coding = Productivity ☕
-
-
+🌱 Always learning new technologies and improving my development skills
 
 ---
 
+# 🛠️ Tech Stack
 
+### 👨‍💻 Languages
 
-# 🌐 Connect With Me
-
-
-
-<p align="center">
-
-
-
-<a href="https://github.com/Princekumarsahu-321">
-
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-
-</a>
-
-
-
-<a href="https://linkedin.com/in/your-profile">
-
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-
-</a>
-
-
-
-<a href="mailto:princekumarsahu321@gmail.com">
-
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-
-</a>
-
-
-
-<a href="https://leetcode.com/">
-
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="45"/>
-
-</a>
-
-
-
-<a href="https://www.hackerrank.com/">
-
-<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40"/>
-
-</a>
-
-
-
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
 </p>
 
+### 🎨 Frontend Development
 
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,vite" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,npm,bash" />
+</p>
 
 ---
-
-
-
-# 💻 Tech Stack
-
-
-
-## Languages
-
-
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
-
-</p>
-
-
-
-## Frontend
-
-
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,vite" />
-
-</p>
-
-
-
-## Backend
-
-
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-</p>
-
-
-
-## Database
-
-
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-
-</p>
-
-
-
-## AI / ML
-
-
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-
-</p>
-
-
-
-## Cloud & DevOps
-
-
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
-
-</p>
-
-
-
-## Tools
-
-
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,npm,bash" />
-
-</p>
-
-
-
----
-
-
 
 # 🚀 Featured Projects
 
-
-
 ## 🩺 MedAI Scan
 
+**AI-powered X-ray analysis platform for disease detection.**
 
+### ✨ Features
 
-AI-powered web application for X-ray disease detection.
+* 🧠 AI-based X-ray analysis
+* 🔍 Disease prediction
+* 🔐 Secure authentication
+* ☁️ Image upload & processing
+* 👨‍💼 Admin dashboard
+* 📱 Responsive user interface
 
+### 🧰 Tech Stack
 
-
-### Features
-
-
-
-- Disease Prediction
-
-- AI Image Analysis
-
-- Secure Authentication
-
-- Cloud Image Upload
-
-- Admin Dashboard
-
-- Responsive UI
-
-
-
-**Tech**
-
-
-
-React • Node.js • Express • MongoDB • Python • TensorFlow
-
-
+`React` • `Node.js` • `Express.js` • `MongoDB` • `Python` • `TensorFlow`
 
 ---
-
-
 
 ## 🗳️ Online Voting System
 
+**A full-stack voting platform with authentication and vote management.**
 
+### ✨ Features
 
-Secure voting platform with authentication and vote management.
+* 🔐 User registration & login
+* 🔑 JWT authentication
+* 🔒 Password encryption
+* 👨‍💼 Admin dashboard
+* 📊 Vote management
+* 📈 Live vote counting
 
+### 🧰 Tech Stack
 
-
-### Features
-
-
-
-- Login & Signup
-
-- JWT Authentication
-
-- Password Encryption
-
-- Admin Dashboard
-
-- Live Vote Counting
-
-
-
-**Tech**
-
-
-
-React • Express • MongoDB • JWT • Node.js
-
-
+`React` • `Node.js` • `Express.js` • `MongoDB` • `JWT`
 
 ---
 
+## 🏠 HomelyHub
 
+**MERN-based property booking platform developed as part of my full-stack internship journey.**
+
+### ✨ Focus Areas
+
+* 🏡 Property listings
+* 🔎 Property discovery
+* 👤 User authentication
+* 📅 Booking management
+* 💳 Booking workflow
+* 📱 Responsive UI
+
+### 🧰 Tech Stack
+
+`MongoDB` • `Express.js` • `React` • `Node.js`
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Princekumarsahu-321&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princekumarsahu-321&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Princekumarsahu-321&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 # 📈 Contribution Graph
 
-
-
 <p align="center">
-
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Princekumarsahu-321&theme=tokyo-night"/>
-
-
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Princekumarsahu-321&theme=tokyo-night&hide_border=true" />
 </p>
 
-
-
 ---
-
-
 
 # 🏆 GitHub Trophies
 
-
-
 <p align="center">
-
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=Princekumarsahu-321&theme=tokyonight&row=2&column=4"/>
-
-
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Princekumarsahu-321&theme=tokyonight&no-frame=true&row=2&column=4" />
 </p>
 
-
-
 ---
-
-
 
 # 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
+<a href="https://github.com/Princekumarsahu-321">
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
 
+<a href="https://linkedin.com/in/your-profile">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<a href="mailto:princekumarsahu321@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
 
+<a href="https://leetcode.com/">
+  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="45"/>
+</a>
 
+<a href="https://www.hackerrank.com/">
+  <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40"/>
+</a>
 
 </p>
 
-
-
 ---
 
+# 🧠 Coding Profiles
 
+<p align="center">
 
-# 📊 Coding Profiles
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
+<a href="https://www.geeksforgeeks.org/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
+<a href="https://www.hackerrank.com/">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
 
-- 💛 LeetCode
+<a href="https://www.codechef.com/">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 
-- 🧡 GeeksforGeeks
+<a href="https://codeforces.com/">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
 
-- 💙 HackerRank
-
-- ❤️ CodeChef
-
-- 💚 Codeforces
-
-
+</p>
 
 ---
-
-
 
 # 🏅 Achievements
 
-
-
-🏆 250+ DSA Problems Solved
-
-
-
-🚀 MERN Stack Developer
-
-
-
-🤖 AI/ML Enthusiast
-
-
-
-🛡️ Cisco Cybersecurity Intern
-
-
-
-☁️ AWS Learner
-
-
-
-🐳 Docker Learner
-
-
-
-💻 Open Source Contributor
-
-
-
-📚 Competitive Programmer
-
-
+* 🏆 **250+ DSA Problems Solved**
+* 💻 **MERN Stack Developer**
+* 🤖 **AI/ML Enthusiast**
+* 🛡️ **Cisco Cybersecurity Intern**
+* ☁️ **AWS Learner**
+* 🐳 **Docker Learner**
+* 🚀 **Full-Stack Project Builder**
+* 📚 **Competitive Programming Enthusiast**
 
 ---
-
-
 
 # 📚 Currently Learning
 
-
-
-- System Design
-
-- Microservices
-
-- Kubernetes
-
-- GenAI
-
-- LangChain
-
-- RAG
-
-- LLM Applications
-
-- CI/CD
-
-- AWS Services
-
-
+```text
+System Design
+        ↓
+Microservices
+        ↓
+Docker & Kubernetes
+        ↓
+AWS & Cloud Architecture
+        ↓
+CI/CD
+        ↓
+Generative AI
+        ↓
+LangChain
+        ↓
+RAG & LLM Applications
+```
 
 ---
-
-
-
-# 📈 Visitor Count
-
-
-
-<p align="center">
-
-
-
-<img src="https://komarev.com/ghpvc/?username=Princekumarsahu-321&label=Profile+Views&color=blue&style=for-the-badge"/>
-
-
-
-</p>
-
-
-
----
-
-
-
-# ✍️ Random Dev Quote
-
-
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-
----
-
-
-
-# 😂 Random Dev Meme
-
-
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-
-
----
-
-
 
 # 🎯 2026 Goals
 
-
-
-- ✅ 500+ LeetCode Problems
-
-- ✅ Master MERN Stack
-
-- ✅ Learn System Design
-
-- ✅ Build AI SaaS Products
-
-- ✅ Contribute to Open Source
-
-
-
+* [ ] 🧩 Solve **500+ DSA Problems**
+* [ ] 🚀 Build and deploy **production-ready MERN applications**
+* [ ] 🧠 Strengthen **System Design**
+* [ ] 🤖 Build **AI-powered SaaS products**
+* [ ] ☁️ Become comfortable with **AWS & Cloud Deployment**
+* [ ] 🐳 Master **Docker & Kubernetes fundamentals**
+* [ ] 🔓 Contribute consistently to **Open Source**
+* [ ] 📈 Improve problem-solving and competitive programming skills
 
 ---
 
-
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-</h3>
-
-
+# 📊 Developer Journey
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00d4ff&height=120&section=footer"/>
+```text
+DSA
+250+ Problems
+     ↓
+MERN Stack
+     ↓
+Full Stack Projects
+     ↓
+Cloud & DevOps
+     ↓
+AI / GenAI
+     ↓
+System Design
+     ↓
+Building Scalable Products 🚀
+```
 
+</p>
+
+---
+
+# ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+# 😂 Random Dev Meme
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00d4ff&height=120&section=footer" />
 </p>
