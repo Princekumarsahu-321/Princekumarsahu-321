@@ -26,7 +26,6 @@ Full Stack Developer • MERN Stack • AI/ML Enthusiast • Docker • AWS Lear
 # 💫 About Me
 
 
-
 - 🎓 B.Tech CSE Student at Jagannath University, Jaipur
 
 - 💻 Passionate Full Stack Developer
@@ -42,8 +41,6 @@ Full Stack Developer • MERN Stack • AI/ML Enthusiast • Docker • AWS Lear
 - 🏆 Solved **250+ DSA Problems**
 
 - 📚 Love Competitive Programming
-
-- 💬 Ask me about MERN Stack & AI
 
 - ⚡ Fun Fact: Coffee + Coding = Productivity ☕
 
