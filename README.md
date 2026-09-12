@@ -158,18 +158,6 @@ Full Stack Developer • MERN Stack • AI/ML Enthusiast • Docker • AWS Lear
 
 
 
-## AI / ML
-
-
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-
-</p>
-
-
-
 ## Cloud & DevOps
 
 
