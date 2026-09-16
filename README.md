@@ -241,7 +241,7 @@ React • Express • MongoDB • JWT • Node.js
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Princekumarsahu-321&theme=tokyo-night"
-    alt="GitHub Contribution Graph"
+    alt="Prince Kumar's GitHub Contribution Graph"
   />
 </p>
 
@@ -252,8 +252,9 @@ React • Express • MongoDB • JWT • Node.js
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=Princekumarsahu-321&theme=tokyonight&row=2&column=4"
-    alt="GitHub Trophies"
+    alt="Prince Kumar's GitHub Trophies"
   />
+</p>
 </p>
 
 ---
