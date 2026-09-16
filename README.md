@@ -56,39 +56,21 @@ Full Stack Developer • MERN Stack • AI/ML Enthusiast • Docker • AWS Lear
 
 <p align="center">
 
+  <a href="https://github.com/Princekumarsahu-321">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
 
+  <a href="https://www.linkedin.com/in/prince-kumar-36a88035b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
 
-<a href="https://github.com/Princekumarsahu-321">
+  <a href="mailto:princekumarsahu321@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
 
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-
-</a>
-
-
-
-<a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/prince-kumar-36a88035b/)">
-
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-
-</a>
-
-
-
-<a href="mailto:princekumarsahu321@gmail.com">
-
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-
-</a>
-
-
-
-<a href="[https://leetcode.com/](https://leetcode.com/u/Prince_kumar_2006/)">
-
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="45"/>
-
-</a>
-
-
+  <a href="https://leetcode.com/u/Prince_kumar_2006/">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="45"/>
+  </a>
 
 </p>
 
