@@ -238,7 +238,7 @@ React • Express • MongoDB • JWT • Node.js
 
 # 📈 Contribution Graph
 <p align="center">
-  <img src="https://vercel.app" alt="Prince's Activity Graph" />
+  <img src="https://herokuapp.com" alt="Prince's Activity Graph" />
 </p>
 
 
