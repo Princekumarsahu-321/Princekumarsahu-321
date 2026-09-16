@@ -238,12 +238,7 @@ React • Express • MongoDB • JWT • Node.js
 
 # 📈 Contribution Graph
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Princekumarsahu-321&theme=tokyo-night"
-    alt="Prince Kumar's GitHub Contribution Graph"
-  />
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Princekumarsahu-321&theme=tokyo-night"/> </p>
 
 ---
 
