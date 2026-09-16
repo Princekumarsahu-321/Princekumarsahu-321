@@ -66,7 +66,7 @@ Full Stack Developer • MERN Stack • AI/ML Enthusiast • Docker • AWS Lear
 
 
 
-<a href="https://linkedin.com/in/your-profile">
+<a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/prince-kumar-36a88035b/)">
 
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 
@@ -82,17 +82,9 @@ Full Stack Developer • MERN Stack • AI/ML Enthusiast • Docker • AWS Lear
 
 
 
-<a href="https://leetcode.com/">
+<a href="[https://leetcode.com/](https://leetcode.com/u/Prince_kumar_2006/)">
 
 <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="45"/>
-
-</a>
-
-
-
-<a href="https://www.hackerrank.com/">
-
-<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40"/>
 
 </a>
 
