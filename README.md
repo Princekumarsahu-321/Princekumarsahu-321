@@ -32,7 +32,7 @@ Full Stack Developer • MERN Stack • AI/ML Enthusiast • Docker • AWS Lear
 
 - 🤖 Exploring Artificial Intelligence & Machine Learning
 
-- ☁️ Learning AWS Cloud, Docker, Kubernetes, CI/CD GitHub Action & Terraform
+- ☁️ Learning AWS Cloud, Docker, Kubernetes, CI/CD GitHub Action, Terraform & Grafana
 
 - 🌱 Currently learning System Design
 
