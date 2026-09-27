@@ -36,7 +36,7 @@ Full Stack Developer • MERN Stack • AI/ML Enthusiast • Docker • AWS Lear
 
 - 🌱 Currently learning System Design
 
-- 🚀 Building scalable MERN applications
+- 🚀 Building scalable MERN Stack applications
 
 - 🏆 Solved **300+ DSA Problems**
 
