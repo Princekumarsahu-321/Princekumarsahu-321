@@ -28,7 +28,7 @@ Full Stack Developer • MERN Stack • AI/ML Enthusiast • Docker • AWS Lear
 
 - 🎓 B.Tech CSE Student at Jagannath University, Jaipur
 
-- 💻 Passionate Full Stack Developer & Software
+- 💻 Passionate Full Stack Developer & Software Developer
 
 - 🤖 Exploring Artificial Intelligence & Machine Learning
 
