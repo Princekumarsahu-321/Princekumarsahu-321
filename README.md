@@ -26,23 +26,21 @@ Full Stack Developer • MERN Stack • AI/ML Enthusiast • Docker • AWS Lear
 # 💫 About Me
 
 
-- 🎓 B.Tech CSE Student at Jagannath University, Jaipur
+🎓 B.Tech CSE Student at Jagannath University, Jaipur
 
-- 💻 Passionate Full Stack Developer & Software Developer
+💻 Full-Stack Developer focused on MERN Stack
 
-- 🤖 Exploring Artificial Intelligence & Machine Learning
+🤖 Exploring AI/ML and Generative AI integration
 
-- ☁️ Learning AWS Cloud, Docker, Kubernetes, CI/CD GitHub Action, Terraform & Grafana
+🚀 Building and deploying full-stack applications
 
-- 🌱 Currently learning System Design
+☁️ Working with Docker, Kubernetes, CI/CD and AWS
 
-- 🚀 Building scalable MERN Stack applications
+🧩 Solved 300+ DSA problems
 
-- 🏆 Solved **300+ DSA Problems**
+🏗️ Currently improving System Design & scalable architecture
 
-- 📚 Love Competitive Programming
-
-- ⚡ Fun Fact: Coffee + Coding = Productivity ☕
+🔨 Projects: Homely Hub | POVA | BhashaSet | Online Voting System
 
 
 
