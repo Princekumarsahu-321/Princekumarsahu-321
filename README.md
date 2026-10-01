@@ -6,7 +6,7 @@
 
 <h3 align="center">
 
-Full Stack Developer • MERN Stack • AI/ML Enthusiast • Docker • AWS Learner
+Full Stack Developer • MERN Stack • AI/ML Enthusiast • Docker • AWS
 
 </h3>
 
