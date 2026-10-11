@@ -286,11 +286,6 @@ React • Express • MongoDB • JWT • Node.js
 
 - 🧡 GeeksforGeeks
 
-- 💙 HackerRank
-
-- ❤️ CodeChef
-
-- 💚 Codeforces
 
 
 
