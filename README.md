@@ -13,7 +13,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;300%2B+LeetCode+Problems+Solved;Open+Source+Contributor;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;350%2B+LeetCode+Problems+Solved;Open+Source+Contributor;Always+Learning+New+Technologies" />
 
 </p>
 
