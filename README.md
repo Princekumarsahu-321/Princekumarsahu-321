@@ -6,7 +6,7 @@
 
 <h3 align="center">
 
- DevOps & Cloud Engineer • Full Stack Developer • MERN Stack • Docker • AWS
+ DevOps & Cloud Engineer • Full Stack Developer • MERN Stack 
 
 </h3>
 
