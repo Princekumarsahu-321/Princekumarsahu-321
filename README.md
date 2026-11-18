@@ -244,18 +244,6 @@ React • Express • MongoDB • JWT • Node.js
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Princekumarsahu-321&theme=tokyonight&row=2&column=4"
-    alt="Prince Kumar's GitHub Trophies"
-  />
-</p>
-</p>
-
----
-
 
 
 
