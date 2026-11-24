@@ -380,17 +380,6 @@ React • Express • MongoDB • JWT • Node.js
 
 
 
-# 😂 Random Dev Meme
-
-
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-
-
-
-
----
 
 
 
