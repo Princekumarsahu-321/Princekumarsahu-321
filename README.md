@@ -388,25 +388,6 @@ React • Express • MongoDB • JWT • Node.js
 
 
 
----
-
-
-
-# 🎯 2026 Goals
-
-
-
-- ✅ 500+ LeetCode Problems
-
-- ✅ Master MERN Stack
-
-- ✅ Learn System Design
-
-- ✅ Build AI SaaS Products
-
-- ✅ Contribute to Open Source
-
-
 
 
 ---
